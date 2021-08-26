@@ -1,6 +1,3 @@
-# TransDress
-🍥
-=======
 ## TransDress
 
 **面向 `MtF` 或 `FtM` 的Git学习实践项目**，相关群体介绍在[这里](https://mtf.wiki/zh-cn/docs/)，还有[这里](https://mtf.party/)

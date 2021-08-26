@@ -1,4 +1,3 @@
-<<<<<<< main
 # TransDress
 🍥
 =======
@@ -33,4 +32,3 @@
 [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress)  
 [mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki)  
 [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China)
->>>>>>> main
